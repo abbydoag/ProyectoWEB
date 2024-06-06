@@ -27,6 +27,12 @@
     font-style: oblique;
     font-weight: bold;
 }
+.subtitle2{
+    text-align: left;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 500;
+}
 .paragraph{
     text-align: center;
 }
